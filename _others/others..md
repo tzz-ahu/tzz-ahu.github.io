@@ -4,7 +4,6 @@ title: "Others"
 author_profile: true
 redirect_from:
   - /others/
-  - /others.html
 ---
 
 {% include base_path %}
