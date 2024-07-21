@@ -7,6 +7,8 @@ redirect_from:
   - /others.html
 ---
 
+{% include base_path %}
+
 ## Locations of key files/directories
 
 - Basic config options: \_config.yml
