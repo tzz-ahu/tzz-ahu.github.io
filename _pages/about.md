@@ -29,12 +29,11 @@ The graduate students I have mentored have achieved notable recognition, includi
 
 # Academic Achievements
 
-1. Kunpeng Wang, Danying Lin, Chenglong Li, **Zhengzheng Tu**, Bin Luo; Alignment-Free RGBT Salient Object Detection: Semantics-Guided Asymmetric Correlation Network and a Unified Benchmark (TMM 2024)
-2. Kunpeng Wang, **Zhengzheng Tu**, Chenglong Li, Cheng Zhang, Bin Luo; Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection (TCSVT 2024)
-3. Chuang Chen, Xiao Sun, **Zhengzheng Tu**, Meng Wang; AST-GCN: Augmented Spatial Temporal Graph Convolutional Neural Network for Gait Emotion Recognition (TCSVT 2024) <br>
-4. Yuhao Wang, Xuehu Liu, Pingping Zhang, Hu Lu. **Zhengzheng Tu**, Huchuan Lu; TOP-ReID: Multi-Spectral Object Re-identification with Token Permutation (AAAI 2024)
-5. Pingping Zhang, Yuhao Wang, Yang Liu, **Zhengzheng Tu**, Huchuan Lu; Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification (CVPR 2024)
-
+[1] Kunpeng Wang, Danying Lin, Chenglong Li, **Zhengzheng Tu**, Bin Luo; Alignment-Free RGBT Salient Object Detection: Semantics-Guided Asymmetric Correlation Network and a Unified Benchmark (TMM 2024)
+[2] Kunpeng Wang, **Zhengzheng Tu**, Chenglong Li, Cheng Zhang, Bin Luo; Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection (TCSVT 2024)
+[3] Chuang Chen, Xiao Sun, **Zhengzheng Tu**, Meng Wang; AST-GCN: Augmented Spatial Temporal Graph Convolutional Neural Network for Gait Emotion Recognition (TCSVT 2024) <br>
+[4] Yuhao Wang, Xuehu Liu, Pingping Zhang, Hu Lu. **Zhengzheng Tu**, Huchuan Lu; TOP-ReID: Multi-Spectral Object Re-identification with Token Permutation (AAAI 2024)
+[5] Pingping Zhang, Yuhao Wang, Yang Liu, **Zhengzheng Tu**, Huchuan Lu; Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification (CVPR 2024)<br>
 [More Information](https://tzz-ahu.github.io/publications/)
 
 # Awards
