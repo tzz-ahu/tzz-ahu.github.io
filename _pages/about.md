@@ -14,7 +14,7 @@ Technical Title: Associate Professor<br>
 Type of Supervisor: PhD Supervisor/Master's Supervisor<br>
 Admission Major: Computer Science and Technology, Software Engineering, Artificial Intelligence
 
-# 🌎Research Interests
+# 💻Research Interests
 
 1. Multimodal Cognitive Computing
 2. Medical Image Analysis (Ultrasound, Terahertz)
