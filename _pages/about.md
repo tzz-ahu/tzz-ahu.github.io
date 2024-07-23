@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhengzheng Tu"
+title: "🎓Zhengzheng Tu"
 author_profile: true
 redirect_from:
   - /about/
@@ -14,13 +14,13 @@ Technical Title: Associate Professor<br>
 Type of Supervisor: PhD Supervisor/Master's Supervisor<br>
 Admission Major: Computer Science and Technology, Software Engineering, Artificial Intelligence
 
-# Research Areas
+# 🌎Research Interests
 
 1. Multimodal Cognitive Computing
 2. Medical Image Analysis (Ultrasound, Terahertz)
 3. Computer Vision and Artificial Intelligence
 
-# Personal Introduction
+# 📣Personal Introduction
 
 <span>I hold a Ph.D. in Engineering, having been jointly trained by China and the UK. I am an Associate Professor, as well as a PhD and Master's Supervisor at the School of Computer Science and Technology, Anhui University. I am also a member of the Visual Big Data Committee of the China Society of Image and Graphics.</span>
 
@@ -30,7 +30,7 @@ Admission Major: Computer Science and Technology, Software Engineering, Artifici
 
 <span>The graduate students I have mentored have achieved notable recognition, including national scholarships, awards for outstanding graduates, the Anhui Computer Society Outstanding Master's Thesis Award, and the Anhui Robotics Society Outstanding Master's Thesis Award.</span>
 
-# Academic Achievements
+# 📝Publications
 
 [1] Kunpeng Wang, Danying Lin, Chenglong Li, **Zhengzheng Tu**, Bin Luo; Alignment-Free RGBT Salient Object Detection: Semantics-Guided Asymmetric Correlation Network and a Unified Benchmark (TMM 2024)
 
@@ -42,9 +42,9 @@ Admission Major: Computer Science and Technology, Software Engineering, Artifici
 
 [5] Pingping Zhang, Yuhao Wang, Yang Liu, **Zhengzheng Tu**, Huchuan Lu; Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification (CVPR 2024)
 
-[More Information](https://tzz-ahu.github.io/publications/)
+Full publications can be found in [here](https://tzz-ahu.github.io/publications/)
 
-# Awards
+# 🏆Awards
 
 1. Silver Award in the National Finals of the Main Track for Undergraduate Creative Group of the 2023 China International College Students' Innovation and Entrepreneurship Competition.
 2. Bronze Award in the National Finals of the Industrial Proposition Track of the 2023 China International College Students' Innovation and Entrepreneurship Competition.
@@ -53,7 +53,7 @@ Admission Major: Computer Science and Technology, Software Engineering, Artifici
 5. Outstanding Graduate Thesis Instructor Award of Anhui Robotics Society in 2021.
 6. National College Students' Innovation and Entrepreneurship Training Program for Undergraduates, Excellent Conclusion, Instructor.
 
-# Ongoing Projects
+# 📖Ongoing Projects
 
 1. Anhui University Collaborative Innovation Project, Research on Intelligent Tumor Detection Based on Terahertz Wave CT Imaging, Hosted
 2. National Natural Science Foundation General Project, Research on Visible Light-Infrared Salient Object Detection for Limited Data, Hosted
